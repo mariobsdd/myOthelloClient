@@ -1,0 +1,18 @@
+{
+  "name": "othello_client",
+  "version": "0.0.1",
+  "description": "my othello client for IA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mariobsdd",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-serve": "^1.4.0",
+    "readline": "^1.3.0",
+    "socket.io": "^1.7.4",
+    "socket.io-client": "^1.7.4"
+  }
+}
