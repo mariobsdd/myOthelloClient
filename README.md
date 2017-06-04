@@ -1,1 +1,1 @@
-"Run using npm install, then node client.js" 
+"Use npm install, install all socket io dependencies and then run by using node client.js" 
